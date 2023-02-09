@@ -1,0 +1,1 @@
+Olá. Segui o passo a passo mostrado pela desenvolvedora front-end Rafaella Ballerini em seu canal no youtube para aprender a utilizar o git e o github. Estes arquivos foram criados para praticar o que foi ensinado. 
